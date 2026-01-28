@@ -2,6 +2,11 @@
 
 Este projeto é uma solução prática desenvolvida em Excel para simulação de investimentos em Fundos Imobiliários (FIIs), atendendo ao desafio proposto pela **DIO**.
 
+## 📸 Visualização da Ferramenta
+Abaixo, algumas capturas de tela da planilha em funcionamento:
+
+![Print Principal](print%20ferramenta%20de%20investimentos%20renali%20dio.png) ![Print Cenários](2print%20ferramenta%20de%20investimentos%20renali%20dio.png)
+
 ## 🎯 Objetivo do Projeto
 O objetivo foi criar uma ferramenta que permitisse simular o efeito dos juros compostos ao longo do tempo, respondendo a perguntas cruciais para o investidor:
 - Quanto preciso investir por mês?
