@@ -1,3 +1,6 @@
+![Excel Version](https://img.shields.io/badge/Excel-Office%20365-green?style=for-the-badge&logo=microsoft-excel)
+![Status](https://img.shields.io/badge/Status-Concluído-blue?style=for-the-badge)
+
 # 📊 Controle de Investimentos - Desafio DIO
 
 Este projeto é uma solução prática desenvolvida em Excel para simulação de investimentos em Fundos Imobiliários (FIIs), atendendo ao desafio proposto pela **DIO**.
